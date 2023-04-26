@@ -1,4 +1,4 @@
-<h1 align="center">Aulas de Python</h1>
+<h1 align="center">Aulas de Python - UNICSUL</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
