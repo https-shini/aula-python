@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 - Python
 
 ## ☆ Projeto
-Apenas alguns exercicios para treinar a linguagem de progranmação Python, todos os exercicios foram feitos em sala de aula ou são feitos para estudos. Creditos para o Professor Marco Antonio da Universidade Cruzeiro do Sul.
+Apenas alguns exercicios para treinar a linguagem de progranmação Python, todos os exercicios foram feitos em sala de aula ou são feitos para estudos. Creditos para o **[Professor Marco Antonio](https://github.com/msanches)** da Universidade Cruzeiro do Sul.
 
 ## ☆ Layout
 
